@@ -20,5 +20,5 @@ Topic modeling is a fundamental text analysis technique since asking "What are t
 
 Deliverables:
 
-* When you have finished your code, print your notebook as a PDF and upload this document to Blackboard. 
+* When you have finished your code, print your notebook as a PDF and upload this document to Canvas. 
 * Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook file and any other code you create. 
